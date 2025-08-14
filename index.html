@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+ 
+  <title>Assistente de IA</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+
+<body>
+  <div class="chat-container">
+    <header class="chat-header">
+      <img src="img/ia.png" alt="Logo" >
+      <h1 class="chat">Assistente de IA</h1>
+    </header>
+
+        
+    <div class="chat-input">
+     <label class="chat-label" for="apiKey">Chave da API Gemini:</label>
+      <input type="password" id="apiKey" placeholder="🔑 Insira a chave de sua API aqui..." />
+
+      <div class="input-row" >
+        <textarea class="input-pergunta" id="pergunta" placeholder="Digite sua pergunta..." ></textarea>
+        <button id="btnPerguntar" onClick="perguntar()"> Perguntar</button>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
