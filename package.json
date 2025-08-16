@@ -1,0 +1,20 @@
+{
+  "name": "projeto6.gemini.api",
+  "version": "1.0.0",
+  "description": "<div align=\"center\"> <img width=\"908\" height=\"520\" alt=\"Captura de tela 2025-08-09 005126\" src=\"https://github.com/user-attachments/assets/dd14e7ac-e0db-4510-8ca5-84a34645eaa8\" />",
+  "homepage": "https://github.com/GeizaCristineTI/Projeto6.Gemini.API#readme",
+  "bugs": {
+    "url": "https://github.com/GeizaCristineTI/Projeto6.Gemini.API/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeizaCristineTI/Projeto6.Gemini.API.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
